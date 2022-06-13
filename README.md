@@ -19,4 +19,4 @@ In This Game make using Python OpenCV, PyGame and more....
 [![GitHub](https://img.shields.io/badge/github-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Amrit-Giri/)
 
 # Demo Video
-![image](https://github.com/Amrit-Giri/Balloon Pop/blob/main/Images/DemoVideo.gif?raw=true)
+![image](https://github.com/Amrit-Giri/BalloonPopGame/blob/main/Images/Balloon%20Pop.gif?raw=true)
